@@ -73,7 +73,7 @@ function Weather() {
   return (
     <>
       <div className="bg-red-400 flex justify-center items-center py-4 h-screen">
-        <div className="text-center h-max py-4 lg:py-2 bg-red-300 rounded-xl scale-90 flex flex-col  justify-center items-center">
+        <div className="text-center h-max py-4 lg:py-2 bg-red-300 rounded-xl flex flex-col  justify-center items-center">
           <h1 className="text-xl font-bold">Weather App</h1>
           <div className="relative">
             <input
